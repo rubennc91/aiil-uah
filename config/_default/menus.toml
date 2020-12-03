@@ -29,6 +29,11 @@
   weight = 50
 
 [[main]]
+  name = "Job Opportunities"
+  url = "joboffer"
+  weight = 60
+
+[[main]]
   name = "Contact"
   url = "contact"
-  weight = 60
+  weight = 70
